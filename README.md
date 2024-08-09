@@ -1,2 +1,2 @@
-# GenAI-Course-Repo
+GenAI-Course-Repo
 Notes, Assignments and Notebooks
